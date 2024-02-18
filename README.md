@@ -1,5 +1,6 @@
 <h1 align="left">Hi there, I am Kumud! </h1>
 <p align="left"> I am trying to be a full-stack developer with the help of my dear friend!! YAYYY! </p>
+<br>
 
 
 <h2 align="left">My Skillset </h2>

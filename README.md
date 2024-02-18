@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I am Kumud! </h1>
-<p align="left"> I am trying to be a full-stack developer with the help of my dear friend!! YAYYY! </p>
+<p align="left"> On a journey to become a full-stack developer through self-learning and personal projects. </p>
 <br>
 
 

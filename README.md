@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I am Kumud! </h1>
+<h1 align="left">Hi there, I am Kumud Bansal! </h1>
 <p align="left"> On a journey to become a full-stack developer through self-learning and personal projects. </p>
 <br>
 
